@@ -1,3 +1,3 @@
-# Kodluyoruz | Hafta 3 Bölüm Sonu Alıştırma
+# Kodluyoruz | Hafta 3
 
 https://app.patika.dev/elakascioglu
